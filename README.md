@@ -1,45 +1,58 @@
-# Emilio Picard @ ENS Paris Saclay | Sorbonne University
+# Emilio Picard <span style="font-size: 0.9em;">@ ENS Paris-Saclay | Sorbonne University</span>
+
+<div align="center">
+  <img src="assets/your-photo.jpg" alt="Emilio Picard" width="150" style="border-radius: 50%; margin: 10px;">
+  <img src="assets/ens-paris-saclay-logo.png" alt="ENS Paris-Saclay" width="150" style="margin: 10px;">
+</div>
 
 ---
 
-I'm currently a Master 2 student at **ENS Paris-Saclay**, where I'm specializing in **Machine Learning** and **Deep Learning**. My research passion is driven by a strong interest in applying machine and deep learning methods to music, audio and signal processing. I'm also interested in Medical and Neuroscience applications.
+I'm currently a Master 2 student at **ENS Paris-Saclay**, specializing in **Machine Learning** and **Deep Learning**. My research passion is fueled by a strong interest in applying machine and deep learning methods to **music, audio, and signal processing**, as well as applications in **medical and neuroscience** domains.
 
-Outside of academics, I'm an artist, beatmaker & composer. You can check out my music on [Linktree](https://linktr.ee/soleer) (Spotify, Deezer, etc).
+🎶 Outside of academics, I'm an **artist, beatmaker, and composer**. You can check out my music on [Linktree](https://linktr.ee/soleer) (Spotify, Deezer, etc).
 
 ---
 
-## Prjects
+## 🎓 Projects
 
-Here are some projects I've been working on, focused on **machine learning** and **deep learning** topics (Master 1 projects):
+Here are some of my key projects, with a focus on **machine learning** and **deep learning** (Master 1 projects):
 
-### 1. **[Conformal Prediction](https://github.com/emilio-pcrd/project1)**
-   - **Description**: This work has been done during my second semester of a master's degree in Sorbonne University, under the supervision of Claire Boyer , and has been part of a course called Research and Study Work .
+### 1. **[Conformal Prediction](https://github.com/emilio-pcrd/Conformal-Prediction)**
+   - **Description**: Conducted during my master's degree at Sorbonne University under the supervision of Claire Boyer, this project was part of the **Research and Study Work** course.
+   - **Objective**: Understanding **Conformal Prediction**, a critical approach in high-risk domains such as medical diagnostics and environmental forecasting, where predictive accuracy is crucial.
+   - **Keywords**: Uncertainty quantification, Risk mitigation, Machine learning
 
-Related to the field of Machine Learning, this work leads to a simple general understanding of Conformal Prediction , a modern issue which becomes very important for high risk settings in many domains, such as medicine diagnostics, wheather reports or either environment, where a wrong prediction could lead to consequential model failures.
+### 2. **[Signatures for Time Series](https://github.com/emilio-pcrd/Learning-with-signatures)**
+   - **Description**: This project covers **statistical and machine learning approaches for time series** using Signatures and Sensitivity Analysis, developed during my internship at **Institut Mathématique de Toulouse**.
+   - **Note**: The project is based on notebooks created for this internship; a report will be shared when available.
 
-### 2. **[Signatures for Time Series](https://github.com/emilio-pcrd/project2)**
-   - **Description**: Statistics and Machine Learning for time series, using Signatures & Sensitivity analysis. This repository tackles the work (notebook) done during my 2 months internship at Institut Mathématique de Toulouse. The report of this not now available.
-
-### 3. **[Variational inference for Bayesian linear regression](https://github.com/emilio-pcrd/project3)**
-   - **Description**: This project is in French. En colaboration avec Paul Lefranc (Sorbonne université).
-     Sujet: Application d'une approche variationnelle pour un modèle de régression linéaire bayésien. Ce projet contient un notebook avec du code et des calculs mathématiques utiles pour la construction de l'algorithme **CAVI**.
+### 3. **[Variational Inference for Bayesian Linear Regression](https://github.com/emilio-pcrd/Variational-_inference_for_bayesian_models)**
+   - **Description**: This project, in collaboration with Paul Lefranc at Sorbonne University, involves applying a **variational approach** to Bayesian linear regression models. This repository includes notebooks with code and calculations for building the **CAVI** algorithm.
+   - **Language**: French
 
 ---
 
 ## Tools
 
-Here's a quick overview of the skills and tools I frequently use:
+Here’s a summary of the skills and tools I frequently use:
 
 - **Languages**: Python
 - **Machine Learning**: PyTorch, Scikit-learn, TensorFlow, Keras
-- **Other Tools**: Git, LaTeX, Docker (basics)
-- **Music DAW**: FL Studio, Ableton Live, Studio one
+- **Other Tools**: Git, LaTeX, Docker (basic proficiency)
+- **Digital Audio Workstations (DAWs)**: FL Studio, Ableton Live, Studio One
+
 ---
 
-## Other Links:
+## 📬 Connect with Me
 
-- **Gitlab**: [@emilio-pcrd](https://gitlab.com/yourusername)
+Feel free to reach out or follow me on my platforms:
+
+- **Spotify**: [Spotify artist page](https://open.spotify.com/intl-fr/artist/4vUYFAcnbGRGxxKTRhZzr3)
 - **LinkedIn**: [Emilio PICARD](https://www.linkedin.com/in/emilio-picard-24550820b/)
-- **Linktree**: [Linktree Profile](https://linktr.ee/soleer)
+- **Linktree**: [Music](https://linktr.ee/soleer)
 
 ---
+
+<div align="center">
+  <span style="font-size: 0.85em;">Thank you for visiting my profile! Let's connect and discuss machine learning, music, and more.</span>
+</div>
