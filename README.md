@@ -1,8 +1,6 @@
-# Emilio Picard <span style="font-size: 0.9em;">@ ENS Paris-Saclay | Sorbonne University</span>
-
+# Emilio Picard <span style="font-size: 0.9em;">@ ENS Paris-Saclay | Sorbonne University
 <div align="center">
-  <img src="assets/your-photo.jpg" alt="Emilio Picard" width="150" style="border-radius: 50%; margin: 10px;">
-  <img src="assets/ens-paris-saclay-logo.png" alt="ENS Paris-Saclay" width="150" style="margin: 10px;">
+  <img src="./profile_picture.jpeg" alt="Emilio Picard" width="200" style="border-radius: 100%; margin: 10px;">
 </div>
 
 ---
