@@ -16,7 +16,7 @@ I'm currently a Master 2 student at **ENS Paris-Saclay**, specializing in **Math
 Here are some of my key projects, with a focus on **machine learning** and **deep learning** (Master 1 projects):
 
 ### 1. **[Conformal Prediction](https://github.com/emilio-pcrd/Conformal-Prediction)**
-   - **Description**: Conducted during my master's degree at Sorbonne University under the supervision of Claire Boyer, this project was part of the **Research and Study Work** course.
+   - **Description**: Conducted during my master's degree at Sorbonne University, this project was part of the **Research and Study Work** course.
    - **Objective**: Understanding **Conformal Prediction**, a critical approach in high-risk domains such as medical diagnostics and environmental forecasting, where predictive accuracy is crucial.
    - **Keywords**: Uncertainty quantification, Risk mitigation, Machine learning
 
