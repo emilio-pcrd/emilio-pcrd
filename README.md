@@ -50,7 +50,3 @@ Feel free to reach out or follow me on my platforms:
 - **Linktree**: [Music](https://linktr.ee/soleer)
 
 ---
-
-<div align="center">
-  <span style="font-size: 0.85em;">Thank you for visiting my profile! Let's connect and discuss machine learning, music, and more.</span>
-</div>
