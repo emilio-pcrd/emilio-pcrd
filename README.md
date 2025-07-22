@@ -5,10 +5,9 @@
 
 ---
 
-I'm currently a Master 2 student at **ENS Paris-Saclay**, specializing in **Mathematics** and **Programming** applied to **Machine and Deep Learning**. My research passion is fueled by a strong interest in applying machine and deep learning methods to **music, audio, and signal processing**, as well as applications in **medical imaging** domains.
+I'm currently a Master 2 student at **ENS Paris-Saclay**, specializing in **Mathematics** and **Programming** applied to **Machine and Deep Learning**.
+Currently, my research interests are focused on applying `diffusion models` to music/audio processing !
 
-Currently, my research interests are focused on `diffusion models` and its application to audio data.
-
-🎶 Outside of academics, I'm a **Musician, composer**. You can check out my music on [Linktree](https://linktr.ee/soleer) (Spotify, Deezer, etc).
+🎶 Outside of academics, I'm a **Musician and composer**! You can check out my music on [Linktree](https://linktr.ee/soleer) (Spotify, Deezer, etc).
 
 ---
